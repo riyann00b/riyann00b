@@ -1,6 +1,6 @@
 ![logoo](https://github.com/riyann00b/riyann00b/blob/9b11f580632971f47618a56530b44cfc3ff1f071/MD%20Riyan%20Nazeer.png)
-<h1 align="center">Hi 👋, I'm Md Riyan Nazeer</h1>
-<h3 align="center">Hi, I'm Riyan! I have a passion for coding in Java and Python for Ai/Ml applications. In addition, I have experience with video, photo editing, and graphic design</h3>
+<h1 align="center">Hi 👋, I'm Md Riyan Nazeer </h1> 
+<h3 align="center">Hi, I'm Riyan! I have a passion for coding in Java and Python for Ai/Ml applications. In addition, I have experience with video, photo editing, and graphic design 🇮🇳 🇵🇸 :star_and_crescent: </h3>
 <img align="right" alt="coding_gif" width="400" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47c4m955gou56lw9qplkllxejazrukk3g9ketpbfrr&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyann00b&label=Profile%20views&color=0e75b6&style=flat" alt="riyann00b" /> </p>
 
