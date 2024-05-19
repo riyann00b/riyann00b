@@ -41,7 +41,7 @@ So, are you ready to embark on an epic coding odyssey guided by the principles o
 ## 🌐 Reaching the Dojo's Comms Hub:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_r1y4n_20) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MohammedRiyanNazeer) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-riyan-nazeer) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/UwUriyan) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MD_Riyan_Nazeer) 
 
@@ -103,6 +103,7 @@ So, are you ready to embark on an epic coding odyssey guided by the principles o
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Mamba](https://img.shields.io/badge/Mamba-EED362?logo=https://mamba.readthedocs.io/en/latest/_images/mamba-logo.png&logoColor=white&style=for-the-badge&border=true)
 
 **Version Control and CI/CD**:
 
@@ -136,5 +137,3 @@ So, are you ready to embark on an epic coding odyssey guided by the principles o
 
 ---
 [![](https://visitcount.itsvg.in/api?id=riyann00b&icon=3&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
