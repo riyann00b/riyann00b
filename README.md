@@ -116,9 +116,10 @@ So, are you ready to embark on an epic coding odyssey guided by the principles o
 **Infrastructure and Deployment**:
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 **Operating System**:
+
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge&border=true)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge&border=true)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?logo=windows11&logoColor=white&style=for-the-badge&border=true)
