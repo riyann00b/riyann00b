@@ -6,6 +6,7 @@ I'm MD Riyan Nazeer, a daring digital warrior on a quest to conquer the realms o
 🔥 Current Missions:
 - Project 1 - Unraveling the mysteries of CNN and KAN models (Quantization) 🤖
 - Project 2 - Crafting a celestial symphony of websites 🌐
+- Project 3 - Building ML base projects
 
 🧠 Expanding My Knowledge:
 - Delving into the depths of AI/ML 🧠
@@ -16,18 +17,19 @@ Are you a passionate code ninja with a love for anime and a desire to create som
 
 📣 Ask Senpai About:
 - Anime/Manga 📕
-- Python, WebDev 💻
+- Python,ML, WebDev 💻
 - Or any coding conundrums or anime mysteries that pique your curiosity! I'm always eager to share knowledge, alhamdulillah. 🙏
 
 ⚡ A Quirky Fact About This Code Samurai:
-- I use Arch (btw)🐧
+- I use Arch (btw)🐧(in a VM)
+- 
 
 📖 Wisdom from the Scrolls:
 Reading:
-- "Ghost in the Wire" 👻
-- "Mushoku Tensei LN" 📚
-- "CSW" ⛓🪚👨
-- "ONE Piece" ☠👒🍖🏴‍☠️
+- "Bi-LSTM" [link](https://paperswithcode.com/method/bilstm).
+- "RoBERTa" [link](https://paperswithcode.com/paper/roberta-a-robustly-optimized-bert-pretraining).
+- "KAN" [link](https://paperswithcode.com/method/kan).
+- "DSP" [DSP](https://paperswithcode.com/paper/dsp-dynamic-sequence-parallelism-for-multi).
 
 📜 The Samurai's Codices:
 - Coming soon... ✏️
@@ -79,7 +81,6 @@ So, are you ready to embark on an epic coding odyssey guided by the principles o
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&border=true)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&border=true)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge&border=true)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
