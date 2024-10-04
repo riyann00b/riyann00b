@@ -142,8 +142,5 @@ So, are you ready to embark on an epic coding odyssey guided by the principles o
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=riyann00b&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=riyann00b&icon=3&color=9)](https://visitcount.itsvg.in)
