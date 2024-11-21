@@ -1,9 +1,5 @@
-<!--Add a Banner-->
-<!-- ![Your Banner](https://your-image-url.com/banner.png) -->
-<!-- <img align="center" src="" /> -->
-<!-- <div align="center">
-  <img src="your-banner.gif" width="800" height="300">
-</div> -->
+
+<img align="center" src="https://github.com/riyann00b/riyann00b/blob/main/MD%20Riyan%20Nazeer.png" />
 
 <h1 align="center">
   👋 Hey there, I'm Riyan!
