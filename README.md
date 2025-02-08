@@ -138,6 +138,16 @@
 
 ---
 
+## 📊 Neural Activity
+
+<div align="center">
+
+![Coding Graph](https://github-readme-activity-graph.vercel.app/graph?username=riyann00b&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=20F7A0)
+
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -148,7 +158,7 @@
 
 ## ✍️ Random Dev Quote
 
-<p align="right">
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Dev Quote" />
 </p>
 
@@ -162,6 +172,4 @@
 
 ---
 
-<p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=riyann00b&icon=2&color=3" alt="Profile Views" />
-</p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friyann00b&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=&edge_flat=false)](https://hits.seeyoufarm.com)
