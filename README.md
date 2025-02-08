@@ -27,9 +27,9 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Machine+Learning+Enthusiast;Anime+Fan+%F0%9F%91%8D;Genshin+Impact+Player" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=32&duration=4000&color=20F7A0&center=true&vCenter=true&width=600&lines=AI+Neuroengineer;Machine+Perception+Developer;Open+Source+Architect">
+</h1>
 
 ---
 
