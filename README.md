@@ -41,11 +41,17 @@
   - 👁️‍🗨️ Computer Vision
   - ☁️ Cloud Development (AWS, Azure)
   - 🦀 Rust Programming Language
-- 🎮 In my downtime, you'll find me watching Anime or exploring Teyvat in [**Genshin Impact**](https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&v=350&gid=2&utm_source=hoyolab&utm_medium=tools&bbs_theme=dark&bbs_theme_device=1#/ys).
+- 🎮 In my downtime, you'll find me watching Anime or exploring Teyvat in [**Genshin Impact**](https://www.hoyolab.com/accountCenter/postList?id=74146514).
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@Riyann00b/30-nites-of-code)  
+
+<div align="center">
+  
   ![@Riyann00b #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Riyann00b)
+  
+</div>
+    
 
 ---
 
