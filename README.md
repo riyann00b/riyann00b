@@ -1,14 +1,31 @@
 
-<img align="center" src="https://github.com/riyann00b/riyann00b/blob/main/MD%20Riyan%20Nazeer.png" />
-
-<h1 align="center">
-  👋 Hey there, I'm Riyan!
-</h1>
-
+<!-- ASCII Art Header -->
 <p align="center">
-  A passionate Ai/ML Developer who loves to code, learn, and create cool stuff. 🚀
+  <img src="https://github.com/riyann00b/riyann00b/blob/main/MD%20Riyan%20Nazeer.png" alt="Banner" />
 </p>
 
+<h1 align="center">
+  🚀 <span style="color: #20F7A0">sudo dnf install riyan</span> 🖥️
+</h1>
+
+<div align="">
+  
+  ```python
+  class AiDeveloper:
+      def __init__(self):
+          self.name = "MD Riyan Nazeer"
+          self.role = "AI Neuroengineer"
+          self.stack = ["PyTorch", "TensorFlow", "OpenCV", "Rust"]
+          self.passion = "Building sentient systems"
+          
+      def __repr__(self):
+          return f"👾 {self.name} | {self.role} 👾"
+
+  print(AiDeveloper())
+  ```
+</div>
+
+<!-- Dynamic Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/md-riyan-nazeer/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -27,159 +44,145 @@
   </a>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=32&duration=4000&color=20F7A0&center=true&vCenter=true&width=600&lines=AI+Neuroengineer;Machine+Perception+Developer;Open+Source+Architect">
-</h1>
-
 ---
-
-## 🌟 About Me
-
-- 💻 Ai/ML Developer with a passion for building innovative applications.
-- 🎓 Always learning—currently diving into:
-  - 🤖 Advanced Machine Learning
-  - 👁️‍🗨️ Computer Vision
-  - ☁️ Cloud Development (AWS, Azure)
-  - 🦀 Rust Programming Language
-- 🎮 In my downtime, you'll find me watching Anime or exploring Teyvat in [**Genshin Impact**](https://www.hoyolab.com/accountCenter/postList?id=74146514).
-
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@Riyann00b/30-nites-of-code)  
 
 <div align="center">
   
-  ![@Riyann00b #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Riyann00b)
-  
+  ![Terminal Typing](https://readme-typing-svg.vercel.app?font=Space+Mono&size=24&duration=3000&color=20F7A0&center=true&vCenter=true&width=600&lines=Initializing+Neural+Networks...;Compiling+Vision+Models...;Booting+AI+Subsystems...;Welcome+to+My+Digital+Brain!)
+
 </div>
-    
 
 ---
 
+<details>
+<summary>⚡💻 My workspace </summary>
+
+```bash
+# System Specifications
+OS: Fedora 41
+Processor: AMD Ryzen 5 5600X
+GPU: NVIDIA RTX 3060 Ti (CUDA Enabled)
+Memory: 16GB DDR4 @ 3200MHz
+Storage: 1.5TB NVMe Gen4 + 1TB HDD
+```
 <p align='center'>
-  💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
-  <img src="https://img.shields.io/badge/AMD-Ryzen%205%205600X-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-RTX%203060%20TI-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  💻 My workspace<br/><br/>
+  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMD-Ryzen%205%205600X-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-RTX%203060%20TI-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
+
+![Tech Stack Matrix](https://raw.githubusercontent.com/riyann00b/riyann00b/main/assets/tech_matrix.svg)
+</details>
 
 ---
 
-🛠️ Skills
-📚 Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-🏆 Proficiency Levels
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C%2FC++-Experienced-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-Intermediate-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Rust-Learning-yellow?style=for-the-badge" />
-</p>
-💻 Operating Systems
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-</p>
-🤖 Machine Learning & AI Libraries
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-👁️ Computer Vision Libraries
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dlib-008000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mediapipe-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</p>
-🌐 Web Development
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
-🎨 Design & Creative Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
-</p>
-🔧 Additional Tools & Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
+# **#30NitesOfCode:**  
+  <div align="center">
+    <img src="https://www.codedex.io/api/petStatus?user=Riyann00b" alt="#30NitesOfCode Progress" />
+  </div>
+
+[Check out my progress!](https://www.codedex.io/@Riyann00b/30-nites-of-code)
 
 ---
-
-## 💻 My Projects  
-
-| 🚧 **Project**       | **Description**                       | 🔗 **Link**     |
-|-----------------------|---------------------------------------|-----------------|
-| [**Hyderabad-House-Price-Predictor**](https://github.com/riyann00b/Hyderabad-House-Price-Predictor) | A machine learning project that predicts house prices in Hyderabad! | [Repo](https://github.com/riyann00b/Hyderabad-House-Price-Predictor.git) |
-| [**DeepFake-Buster**](https://github.com/riyann00b/DeepFake-Buster.git)   | A deepfake detection application built using Streamlit, TensorFlow Lite, and OpenCV. | [Repo](https://github.com/riyann00b/DeepFake-Buster.git) |
-| [**HelloVision**](https://github.com/riyann00b/HelloVision.git) | A Python-based facial detection and greeting system powered by OpenCV and pyttsx3! | [Repo](https://github.com/riyann00b/HelloVision.git) |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riyann00b&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" alt="Riyan's GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyann00b&theme=shadow_green&hide_border=false&layout=compact" alt="Top Languages" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyann00b&theme=shadow_green&hide_border=false" alt="GitHub Streak" width="400" />
-</p>
-
----
-
-## 📊 Neural Activity
+## 🛠️ Skill Protocol Stack
 
 <div align="center">
 
-![Coding Graph](https://github-readme-activity-graph.vercel.app/graph?username=riyann00b&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=20F7A0)
+| Layer                  | Technologies                                                                 |
+|------------------------|-----------------------------------------------------------------------------|
+| **Core Processing**    | <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,rust,cpp" /> |
+| **Vision Systems**     | <img src="https://skillicons.dev/icons?i=opencv,d3,threejs,webgl" />        |
+| **Neural Interfaces**  | <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes" />|
+| **Quantum Circuits**   | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,graphql" />    |
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 Active Deployments
 
+<details>
+  
+### 🔍 DeepFake-Buster v2.1
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/riyann00b/DeepFake-Buster)
+
+```diff
++ Real-time detection accuracy: 98.7% (LFW dataset)
++ Model size optimized by 40% using TensorRT
+- Current limitation: 4K video processing
+```
+
+![DeepFake Detection Demo](https://github.com/riyann00b/riyann00b/blob/main/assets/deepfake-demo.gif)
+
+### 🏡 Hyderabad Housing Neural Net
+```diff
+! python3 predict.py --location=Gachibowli --sqft=1800
++ Predicted Price: ₹2.8 crore (95% CI)
+```
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/riyann00b)
+
+</details>
+
+---
+
+## 📡 Live Telemetry
+
+<div align="center">
+  
+  ![Coding Activity](https://github-readme-activity-graph.vercel.app/graph?username=riyann00b&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=20F7A0&line=20F7A0&point=FFFFFF)
+
+  <!-- ![Metrics](https://metrics.lecoq.io/riyann00b?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKolkata) -->
+  
+</div>
+
+---
+
+## 🎮 Subsystem Modules
+<details>
+
+```rust
+// Current Development Focus
+mod active_projects {
+    pub mod neural_interface {
+        pub const STATUS: &str = "🚧 In Development (Rust + CUDA)";
+    }
+    
+    pub mod vision_optimizer {
+        pub const FPS: u32 = 240;
+        pub const ACCURACY: f32 = 99.23;
+    }
+}
+
+// Gaming Protocol
+fn genshin_impact_session(time: Duration) -> Result<Artifacts, Error> {
+    println!("Entering Teyvat...");
+    Ok(Artifacts::new())
+}
+
+```
+
+</details>
+
+---
+
+## 🔗 Network Nodes
+<details>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riyann00b&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <a href="https://dev.to/riyann00b">
+    <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@riyann00b">
+    <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/riyann00b">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+    <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FMD_Riyan_Nazeer" />
 </p>
+</details>
 
 ---
 
-## ✍️ Random Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Dev Quote" />
-</p>
-
----
-
-## 🔝 Top Contributed Repos
-
-<p align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=riyann00b&limit=5&theme=shadow_green&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</p>
-
----
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friyann00b&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=&edge_flat=false)](https://hits.seeyoufarm.com)
